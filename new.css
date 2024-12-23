@@ -1,0 +1,41 @@
+/* LOGIN & SIGNUP FORM */
+.formContainer form {
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #EEEEEE;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.formContainer form h2 {
+    margin-bottom: 20px;
+}
+
+.formContainer form input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+.formContainer form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #EE626B;
+    color: #fff;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.formContainer form button:hover {
+    background-color: #9E4147;
+}
+
+.formContainer form p {
+    margin-top: 20px;
+}
